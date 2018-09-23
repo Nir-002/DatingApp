@@ -1,0 +1,14 @@
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+F:\TechnicalTutorials\Angular\AngularDnetFull\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
